@@ -9,10 +9,10 @@
  */
 
 import React from 'react';
-import Example from './src/Example';
+import PokemonList from './src/screens/PokemonList';
 
 const App = () => {
-  return <Example />;
+  return <PokemonList />;
 };
 
 export default App;
